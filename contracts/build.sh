@@ -1,0 +1,1 @@
+npx hardhat copy-abi --contract $1
